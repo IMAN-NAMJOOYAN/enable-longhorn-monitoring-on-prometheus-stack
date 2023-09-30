@@ -23,4 +23,8 @@ kubectl apply -f longhorn-alertmanager.yaml
 ![image](https://github.com/IMAN-NAMJOOYAN/enable-longhorn-monitoring-on-prometheus-stack/assets/16554389/0e5641d0-2525-4aeb-8ca8-f7c50702f70b)
 
 
+3- Create longhorn dashboard from "https://grafana.com/grafana/dashboards/16888-longhorn/".
+
+![image](https://github.com/IMAN-NAMJOOYAN/enable-longhorn-monitoring-on-prometheus-stack/assets/16554389/da4bc3c4-ceb3-416b-a8ea-ba5db92b2691)
+
 
